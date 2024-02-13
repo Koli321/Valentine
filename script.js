@@ -62,7 +62,7 @@ flipCover({
 
 flipCover("twiter", {
   css: "dribbble",
-  url: "/dist/index.html",
+  url: "https://koli321.github.io/valentin/",
   text: "Хихи",
   width: "80px"
 })
